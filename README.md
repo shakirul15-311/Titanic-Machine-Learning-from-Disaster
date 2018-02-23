@@ -1,11 +1,3 @@
 # Titanic-Machine-Learning-from-Disaster
-_____________________________________________________
-## Kaggle problem submission > Titanic: Machine Learning from Disaster Solution\
-____________________________________________
-### Accuracy Rate 68% (0.67942)
-__________________________________________
-## Submitted file is
-```
-titanic.csv
-```
+This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Machine Learning From Disaster. The goal of this repository is to provide an example of a competitive analysis for those interested in getting into the field of data analytics or using python for Kaggle's Data Science competitions .
 
