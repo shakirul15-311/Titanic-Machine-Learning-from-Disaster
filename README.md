@@ -1,3 +1,3 @@
 # Titanic-Machine-Learning-from-Disaster
-This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Machine Learning From Disaster. The goal of this repository is to provide an example of a competitive analysis for those interested in getting into the field of data analytics or using python for Kaggle's Data Science competitions .
-
+This is a tutorial in an Jupyter Notebook(python [Jupyter Solution](https://github.com/shakirul15-311/Titanic-kaggle/blob/master/titanic_Kaggle.ipynb)
+ ) for the Kaggle competition, Titanic Machine Learning From Disaster. The goal of this repository is to provide an example of a competitive analysis for those interested in getting into the field of data analytics or using python for Kaggle's Data Science competitions .
