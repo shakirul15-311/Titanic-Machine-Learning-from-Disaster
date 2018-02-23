@@ -1,4 +1,11 @@
 # Titanic-Machine-Learning-from-Disaster
-## Kaggle problem submission > Titanic: Machine Learning from Disaster Solution
+_____________________________________________________
+## Kaggle problem submission > Titanic: Machine Learning from Disaster Solution\
+____________________________________________
 ### Accuracy Rate 68% (0.67942)
+__________________________________________
+## Submitted file is
+```
+titanic.csv
+```
 
