@@ -3,7 +3,7 @@ This is a tutorial in an Jupyter Notebook ( python [Jupyter Solution](https://gi
  # Installation:
  - [Anaconda](https://anaconda.org/)
  # Dependencies 
- - 1.[Skit-learn](http://scikit-learn.org/stable/0
+ - 1.[Skit-learn](http://scikit-learn.org/stable/0)
  - 2.[Pandas library](https://pandas.pydata.org/)
  
 # Process
